@@ -6,7 +6,7 @@
 
 ## Description
 
-This Python program logs data from the Protek 506 DMM via its RS-232 interface (1200 baud, 7N2). Supports both USB-to-serial adapters and native physical serial ports (e.g., COM1–COM9 on Windows).
+This Python program logs data from the Protek 506 DMM via its RS-232 interface (1200 baud, 7 data bits, 2 stop bits, no parity). Supports both USB-to-serial adapters and native physical serial ports (e.g., COM1–COM9 on Windows).
 
 ## Key Features
 
